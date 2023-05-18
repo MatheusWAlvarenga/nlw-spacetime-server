@@ -1,0 +1,7 @@
+{
+  "singleQuote": true,
+  "trailingComa": "es2020",
+  "semicolons": true,
+  "endOfLine": "auto",
+  "semi": true
+}
