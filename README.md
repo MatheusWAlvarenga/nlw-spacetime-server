@@ -29,8 +29,8 @@ The Spacetime Backend includes the following features:
 
 To set up the Spacetime Backend locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/spacetime-backend.git`
-2. Navigate to the project directory: `cd spacetime-backend`
+1. Clone the repository: `git clone https://github.com/MatheusWAlvarenga/nlw-spacetime-server.git`
+2. Navigate to the project directory: `cd nlw-spacetime-server`
 3. Install the dependencies: `npm install`
 4. Set up the SQLite database:
    - Create an empty SQLite database file (e.g., `spacetime.db`) in the project root directory.
