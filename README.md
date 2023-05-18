@@ -72,8 +72,8 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Acknowledgments
 
-Special thanks to the developers and contributors who have worked on the Spacetime Backend.
+Special thanks to Rocketseat and the team behind NLW for providing the inspiration and guidance for this project.
 
-Feel free to explore the codebase and make it your own! If you have any questions or feedback, please don't hesitate to reach out.
+Feel free to explore the codebase and make it your own! If you have any questions or feedback, please don't hesitate to reach out. [Matheus Alvarenga](mailto:matheuswalvarenga@gmail.com)
 
-Enjoy using the Spacetime Backend for managing your moments!
+Enjoy preserving and revisiting your memories with the NLW Project.
