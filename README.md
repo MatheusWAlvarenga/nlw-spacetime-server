@@ -11,7 +11,7 @@
 The Spacetime Backend incorporates the following technologies:
 
 - Node.js: A JavaScript runtime environment for server-side development.
-- Express.js: A minimalistic web application framework for Node.js, used for building the API endpoints.
+- Fastify: A minimalistic web application framework for Node.js, used for building the API endpoints.
 - SQLite: A lightweight, file-based relational database management system.
 - Prisma: A modern database toolkit and ORM for Node.js and TypeScript, providing an easy-to-use interface for interacting with the SQLite database.
 
