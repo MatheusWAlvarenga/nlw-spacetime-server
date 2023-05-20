@@ -60,7 +60,7 @@ export async function authRoutes(app: FastifyInstance) {
       });
     }
 
-    const expiresIn = '7 days';
+    const expiresIn = '7 days'; // Expected setting - [number] days/months/years/hours/minutes/seconds
 
     const token = app.jwt.sign(
       {
