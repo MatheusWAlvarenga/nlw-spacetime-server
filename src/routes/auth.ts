@@ -60,6 +60,19 @@ export async function authRoutes(app: FastifyInstance) {
       });
     }
 
-    return { user };
+    const expiresIn = '7 days';
+
+    const token = app.jwt.sign(
+      {
+        name,
+        avatar_url,
+      },
+      {
+        sub: `${id}`,
+        expiresIn,
+      }
+    );
+
+    return { token, expiresIn };
   });
 }
