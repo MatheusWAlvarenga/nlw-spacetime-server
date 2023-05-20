@@ -4,7 +4,16 @@
 <img width="900" alt="Wallpaper" src="https://github.com/MatheusWAlvarenga/nlw-spacetime-web/assets/94935750/13f47ab4-786c-42a4-8a7c-7e071e0db69b">
 </div>
 
-<p align="center">The Spacetime Mobile App is the mobile counterpart of the Spacetime project. It allows users to store and cherish memorable moments in a digital time capsule. The mobile app provides a user-friendly interface for capturing, browsing, and managing moments on the go.</p>
+<p align="center">The Spacetime Backend is the server-side component of the Spacetime project. It provides the necessary APIs and functionalities to manage data and handle requests from the frontend application. The backend is built using Node.js and utilizes SQLite as the database for data storage, with Prisma as the ORM (Object-Relational Mapping) tool.</p>
+
+## Technologies Used
+
+The Spacetime Backend incorporates the following technologies:
+
+- Node.js: A JavaScript runtime environment for server-side development.
+- Fastify: A minimalistic web application framework for Node.js, used for building the API endpoints.
+- SQLite: A lightweight, file-based relational database management system.
+- Prisma: A modern database toolkit and ORM for Node.js and TypeScript, providing an easy-to-use interface for interacting with the SQLite database.
 
 ## Features
 
@@ -31,8 +40,8 @@ The Spacetime Mobile App is developed using the following technologies:
 
 To get started with the Spacetime Mobile App, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/spacetime-mobile.git`
-2. Navigate to the project directory: `cd spacetime-mobile`
+1. Clone the repository: `git clone https://github.com/MatheusWAlvarenga/nlw-spacetime-server.git`
+2. Navigate to the project directory: `cd nlw-spacetime-server`
 3. Install the dependencies: `npm install`
 4. Configure the API endpoint:
    - Open the `src/api/config.js` file.
@@ -75,8 +84,8 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Acknowledgments
 
-Special thanks to the developers and contributors who have worked on the Spacetime Mobile App.
+Special thanks to Rocketseat and the team behind NLW for providing the inspiration and guidance for this project.
 
-Feel free to explore the codebase and make it your own! If you have any questions or feedback, please don't hesitate to reach out.
+Feel free to explore the codebase and make it your own! If you have any questions or feedback, please don't hesitate to reach out. [Matheus Alvarenga](mailto:matheuswalvarenga@gmail.com)
 
-Enjoy using the Spacetime Mobile App for capturing and reliving your precious moments
+Enjoy preserving and revisiting your memories with the NLW Project.
